@@ -16,37 +16,49 @@
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
 ## 🔧Technology & Tools
+<br>
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Code-Cairo-informational?style=flat&logo=cairo&logoColor=white&color=cc338b)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  <br/>
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+
 <br>
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Library-Ethers%20JS-informational?style=flat&logo=ethereum&logoColor=white&color=cc338b)
-<br>
+
 ![](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindCSS&logoColor=white&color=cc338b)
 ![](https://img.shields.io/badge/Framework-Bootstrap5-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Sass-informational?style=flat&logo=sass&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Framework-Chakraui-informational?style=flat&logo=chakraui&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-StyledComponents-informational?style=flat&logo=styledcomponents&logoColor=white&color=cc338b)
 <br>
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=cc338b)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Hardhat-informational?style=flat&logo=hardhat&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Tools-Foundry-informational?style=flat&logo=foundry&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=cc338b)
-
 
 ## Proyects *Current*
 <br>
+### Contact Me
+<br>
+
+<a href="https://www.linkedin.com/in/jafeth-arias-hern%C3%A1ndez-b39b271b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JafethArias-blue?style=flat-square&logo=linkedin"></a>
+<a href="ariasjafeth149@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-ariasjafeth149@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+
 ⚙️ GitHub Analytics
 <br>
-<br>
+<br> <br>
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JafethAriasH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/JafethAriasH">
+  
+  ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JafethAriasH&show_icons=true)
+  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JafethAriasH&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
